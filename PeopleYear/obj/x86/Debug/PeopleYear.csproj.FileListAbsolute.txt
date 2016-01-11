@@ -1,0 +1,8 @@
+C:\Users\Aditi\Documents\Visual Studio 2010\Projects\PeopleYear\PeopleYear\bin\Debug\PeopleYear.exe
+C:\Users\Aditi\Documents\Visual Studio 2010\Projects\PeopleYear\PeopleYear\bin\Debug\PeopleYear.pdb
+C:\Users\Aditi\Documents\Visual Studio 2010\Projects\PeopleYear\PeopleYear\bin\Debug\ChartControls.dll
+C:\Users\Aditi\Documents\Visual Studio 2010\Projects\PeopleYear\PeopleYear\bin\Debug\ChartControls.xml
+C:\Users\Aditi\Documents\Visual Studio 2010\Projects\PeopleYear\PeopleYear\obj\x86\Debug\PeopleYear.chart.resources
+C:\Users\Aditi\Documents\Visual Studio 2010\Projects\PeopleYear\PeopleYear\obj\x86\Debug\PeopleYear.csproj.GenerateResource.Cache
+C:\Users\Aditi\Documents\Visual Studio 2010\Projects\PeopleYear\PeopleYear\obj\x86\Debug\PeopleYear.exe
+C:\Users\Aditi\Documents\Visual Studio 2010\Projects\PeopleYear\PeopleYear\obj\x86\Debug\PeopleYear.pdb
